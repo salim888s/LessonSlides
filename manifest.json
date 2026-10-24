@@ -1,0 +1,15 @@
+{
+  "name": "Lesson Slides",
+  "short_name": "Lesson Slides",
+  "description": "تحويل دروسك إلى عرض تقديمي بالذكاء الاصطناعي",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#14161A",
+  "theme_color": "#0B0C0E",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    { "src": "icon.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any" },
+    { "src": "icon.png", "sizes": "1024x1024", "type": "image/png", "purpose": "maskable" }
+  ]
+}
